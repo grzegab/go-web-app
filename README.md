@@ -1,11 +1,12 @@
 # Simple Web App
-This is a sample project written in GO to show how web app could look.
+This simple web app will collect request made and log it to the screen with details.
+Logs will be shown on port XXXXX and request can be made to YYYYY
 
 ## Instalation
 TBD
 
 ## Running
-TBD
+go run main.go
 
 ## Other
-TBD
+Need to dockerize this app
